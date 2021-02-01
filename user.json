@@ -1,0 +1,6 @@
+/*Sample form of data*/
+{
+  "name": "John",
+  "lastName": "Doe",
+  "age": 25
+}
